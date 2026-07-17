@@ -1,0 +1,311 @@
+{
+	"m_HideFlags": 0,
+	"m_Shaders": {
+		"m_ObjectToName": [
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 147 },
+				"Value": "ex2D/Alpha Blended"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 6 },
+				"Value": "VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 1 },
+				"Value": "Legacy Shaders/Diffuse Fast"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 7 },
+				"Value": "Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 2 },
+				"Value": "Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 3 },
+				"Value": "Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 4 },
+				"Value": "Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 5 },
+				"Value": "Diffuse Detail"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 14 },
+				"Value": "Self-Illumin/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10 },
+				"Value": "Self-Illumin/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 11 },
+				"Value": "Self-Illumin/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 12 },
+				"Value": "Self-Illumin/Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 13 },
+				"Value": "Self-Illumin/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 24 },
+				"Value": "Reflective/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 25 },
+				"Value": "Reflective/Bumped Unlit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 20 },
+				"Value": "Reflective/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 21 },
+				"Value": "Reflective/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 26 },
+				"Value": "Reflective/Bumped VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 22 },
+				"Value": "Reflective/Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 23 },
+				"Value": "Reflective/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 34 },
+				"Value": "Transparent/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 30 },
+				"Value": "Transparent/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 31 },
+				"Value": "Transparent/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 32 },
+				"Value": "Transparent/Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 33 },
+				"Value": "Transparent/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 50 },
+				"Value": "Transparent/Cutout/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 51 },
+				"Value": "Transparent/Cutout/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 52 },
+				"Value": "Transparent/Cutout/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 53 },
+				"Value": "Transparent/Cutout/Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 54 },
+				"Value": "Transparent/Cutout/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 8 },
+				"Value": "Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 9 },
+				"Value": "Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 15 },
+				"Value": "Self-Illumin/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 16 },
+				"Value": "Self-Illumin/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 27 },
+				"Value": "Reflective/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 28 },
+				"Value": "Reflective/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 35 },
+				"Value": "Transparent/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 36 },
+				"Value": "Transparent/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 60 },
+				"Value": "Hidden/Shadow-ScreenBlur"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 61 },
+				"Value": "Hidden/Camera-DepthTexture"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 62 },
+				"Value": "Hidden/Camera-DepthNormalTexture"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 63 },
+				"Value": "Hidden/Internal-PrePassLighting"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 64 },
+				"Value": "Hidden/Internal-PrePassCollectShadows"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 65 },
+				"Value": "Hidden/Internal-CombineDepthNormals"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 66 },
+				"Value": "Hidden/BlitCopy"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 67 },
+				"Value": "Hidden/Shadow-ScreenBlurRotated"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 100 },
+				"Value": "Decal"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 101 },
+				"Value": "FX/Flare"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 102 },
+				"Value": "Hidden/Internal-Flare"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 103 },
+				"Value": "RenderFX/Skybox Cubed"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 104 },
+				"Value": "RenderFX/Skybox"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 105 },
+				"Value": "Hidden/Internal-Halo"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 200 },
+				"Value": "Particles/Additive"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 201 },
+				"Value": "Particles/~Additive-Multiply"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 202 },
+				"Value": "Particles/Additive (Soft)"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 203 },
+				"Value": "Particles/Alpha Blended"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 205 },
+				"Value": "Particles/Multiply"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 206 },
+				"Value": "Particles/Multiply (Double)"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 207 },
+				"Value": "Particles/Alpha Blended Premultiply"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 208 },
+				"Value": "Particles/VertexLit Blended"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 9000 },
+				"Value": "Hidden/Internal-GUITextureClip"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 9001 },
+				"Value": "Hidden/Internal-GUITextureClipText"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 9002 },
+				"Value": "Hidden/Internal-GUITexture"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 9003 },
+				"Value": "Hidden/Internal-GUITextureBlit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10101 },
+				"Value": "GUI/Text Shader"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10500 },
+				"Value": "Hidden/TerrainEngine/Details/Vertexlit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10501 },
+				"Value": "Hidden/TerrainEngine/Details/WavingDoublePass"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10502 },
+				"Value": "Hidden/TerrainEngine/Details/BillboardWavingDoublePass"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10505 },
+				"Value": "Nature/Terrain/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10503 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Lightmap-AddPass"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10507 },
+				"Value": "Hidden/TerrainEngine/BillboardTree"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 10512 },
+				"Value": "Transparent/Cutout/Soft Edge Unlit"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 146 },
+				"Value": "Unlit/Transparent"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 1142 },
+				"Value": "Unlit/Transparent Cutout"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 1143 },
+				"Value": "Unlit/Texture"
+			},
+			{
+				"Key": { "m_Collection": "maindata", "m_PathID": 68 },
+				"Value": "Hidden/InternalClear"
+			}
+		]
+	}
+}

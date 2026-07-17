@@ -1,0 +1,18 @@
+{
+	"m_BounceCombine": 0,
+	"m_Bounciness": 0,
+	"m_CorrespondingSourceObject": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_DynamicFriction": 0.45,
+	"m_DynamicFriction2": 0,
+	"m_FrictionCombine": 0,
+	"m_FrictionDirection2": {
+		"m_X": 0,
+		"m_Y": 0,
+		"m_Z": 0
+	},
+	"m_HideFlags": 0,
+	"m_Name": "Wood",
+	"m_PrefabInternal": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_StaticFriction": 0.45,
+	"m_StaticFriction2": 0
+}
