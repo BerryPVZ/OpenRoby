@@ -1185,7 +1185,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 495478}
+  - 4: {fileID: 100101009}
   - 33: {fileID: 3317687}
   - 23: {fileID: 2398961}
   m_Layer: 0
@@ -3722,7 +3722,7 @@ GameObject:
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
   - 4: {fileID: 416046}
-  - 33: {fileID: 3321062}
+  - 33: {fileID: 100102018}
   - 23: {fileID: 2336371}
   m_Layer: 0
   m_Name: Lapka_L_2
@@ -7137,7 +7137,7 @@ Transform:
   m_Children:
   - {fileID: 483732}
   - {fileID: 428509}
-  - {fileID: 495478}
+  - {fileID: 100101009}
   m_Father: {fileID: 419936}
 --- !u!33 &3327787
 MeshFilter:
@@ -7296,7 +7296,7 @@ MeshRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
---- !u!4 &495478
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -12230,7 +12230,7 @@ Transform:
   m_LocalScale: {x: 7.056878, y: 7.056878, z: 7.056878}
   m_Children: []
   m_Father: {fileID: 492777}
---- !u!33 &3321062
+--- !u!33 &100102018
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

@@ -1540,7 +1540,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 495478}
+  - 4: {fileID: 100101009}
   - 33: {fileID: 3317687}
   - 23: {fileID: 2398961}
   m_Layer: 0
@@ -7178,7 +7178,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 428509}
-  - {fileID: 495478}
+  - {fileID: 100101009}
   m_Father: {fileID: 428164}
 --- !u!4 &428509
 Transform:
@@ -7216,7 +7216,7 @@ MeshRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
---- !u!4 &495478
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

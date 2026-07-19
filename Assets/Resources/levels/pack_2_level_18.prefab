@@ -2119,7 +2119,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 413223}
   - 33: {fileID: 3355762}
-  - 23: {fileID: 2363479}
+  - 23: {fileID: 100101009}
   m_Layer: 0
   m_Name: stropa2
   m_TagString: Untagged
@@ -8666,7 +8666,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 198350}
   m_Mesh: {fileID: 4300000, guid: 76cf8fe55c8574745b7a1db75fb4b381, type: 2}
---- !u!23 &2363479
+--- !u!23 &100101009
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

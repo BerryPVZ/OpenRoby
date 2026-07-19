@@ -1905,7 +1905,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 410764}
+  - 4: {fileID: 100101009}
   - 33: {fileID: 3362798}
   - 23: {fileID: 2385097}
   - 114: {fileID: 11492299}
@@ -5779,7 +5779,7 @@ Transform:
   - {fileID: 483004}
   - {fileID: 439388}
   - {fileID: 442340}
-  - {fileID: 410764}
+  - {fileID: 100101009}
   - {fileID: 481432}
   - {fileID: 408018}
   - {fileID: 454913}
@@ -7992,7 +7992,7 @@ BoxCollider:
   m_Enabled: 1
   m_Size: {x: 19.496826, y: 9.748395, z: 25.000008}
   m_Center: {x: 4.7683716E-07, y: -5.551115E-17, z: 7.888609E-31}
---- !u!4 &410764
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

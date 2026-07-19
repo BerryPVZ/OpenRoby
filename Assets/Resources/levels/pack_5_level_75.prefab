@@ -1967,7 +1967,7 @@ GameObject:
   - 4: {fileID: 456215}
   - 33: {fileID: 3320735}
   - 23: {fileID: 2306592}
-  - 114: {fileID: 11410764}
+  - 114: {fileID: 100102018}
   - 65: {fileID: 6562798}
   m_Layer: 0
   m_Name: track_MotionObj_38
@@ -2157,7 +2157,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 463479}
+  - 4: {fileID: 100101009}
   - 33: {fileID: 3305729}
   - 23: {fileID: 2323863}
   m_Layer: 0
@@ -5818,7 +5818,7 @@ Transform:
   - {fileID: 430660}
   - {fileID: 485200}
   - {fileID: 451128}
-  - {fileID: 463479}
+  - {fileID: 100101009}
   - {fileID: 432447}
   m_Father: {fileID: 401909}
 --- !u!4 &419448
@@ -7936,7 +7936,7 @@ MeshRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
---- !u!114 &11410764
+--- !u!114 &100102018
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -8371,7 +8371,7 @@ MeshRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
---- !u!4 &463479
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

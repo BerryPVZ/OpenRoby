@@ -2247,7 +2247,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 463479}
+  - 4: {fileID: 100101009}
   m_Layer: 0
   m_Name: locator8
   m_TagString: Untagged
@@ -8549,7 +8549,7 @@ Transform:
   - {fileID: 485200}
   - {fileID: 447729}
   - {fileID: 413223}
-  - {fileID: 463479}
+  - {fileID: 100101009}
   - {fileID: 412763}
   - {fileID: 485275}
   - {fileID: 423766}
@@ -8647,7 +8647,7 @@ Transform:
   m_LocalScale: {x: 0.032812234, y: 0.032812234, z: 0.032812234}
   m_Children: []
   m_Father: {fileID: 413223}
---- !u!4 &463479
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -8669,7 +8669,7 @@ Transform:
   m_LocalPosition: {x: 1.0413132, y: -0.6985141, z: 0.0066553554}
   m_LocalScale: {x: 0.084748305, y: 0.43507323, z: 0.12013871}
   m_Children: []
-  m_Father: {fileID: 463479}
+  m_Father: {fileID: 100101009}
 --- !u!33 &3323863
 MeshFilter:
   m_ObjectHideFlags: 0

@@ -1466,7 +1466,7 @@ GameObject:
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
   - 4: {fileID: 404128}
-  - 33: {fileID: 3395478}
+  - 33: {fileID: 100101009}
   - 23: {fileID: 2317687}
   - 114: {fileID: 11498961}
   - 65: {fileID: 6592879}
@@ -7118,7 +7118,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 496018}
---- !u!33 &3395478
+--- !u!33 &100101009
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

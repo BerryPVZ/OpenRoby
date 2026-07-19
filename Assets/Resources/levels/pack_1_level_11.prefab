@@ -2113,7 +2113,7 @@ GameObject:
   - 4: {fileID: 428509}
   - 33: {fileID: 3377689}
   - 65: {fileID: 6504128}
-  - 23: {fileID: 2395478}
+  - 23: {fileID: 100101009}
   m_Layer: 0
   m_Name: main_box_fix1
   m_TagString: Untagged
@@ -6843,7 +6843,7 @@ BoxCollider:
   m_Enabled: 1
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &2395478
+--- !u!23 &100101009
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}

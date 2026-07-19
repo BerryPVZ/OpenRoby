@@ -1871,7 +1871,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 410764}
+  - 4: {fileID: 100101009}
   m_Layer: 0
   m_Name: xvat
   m_TagString: Untagged
@@ -7876,7 +7876,7 @@ Transform:
   - {fileID: 498923}
   - {fileID: 490737}
   - {fileID: 456215}
-  - {fileID: 410764}
+  - {fileID: 100101009}
   m_Father: {fileID: 430575}
 --- !u!111 &11131191
 Animation:
@@ -8221,7 +8221,7 @@ MeshRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
---- !u!4 &410764
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -8250,7 +8250,7 @@ Transform:
   - {fileID: 481432}
   - {fileID: 408018}
   - {fileID: 454913}
-  m_Father: {fileID: 410764}
+  m_Father: {fileID: 100101009}
 --- !u!4 &485097
 Transform:
   m_ObjectHideFlags: 0
@@ -8414,7 +8414,7 @@ Transform:
   - {fileID: 451128}
   - {fileID: 463479}
   - {fileID: 420751}
-  m_Father: {fileID: 410764}
+  m_Father: {fileID: 100101009}
 --- !u!4 &493152
 Transform:
   m_ObjectHideFlags: 0
@@ -9043,7 +9043,7 @@ Transform:
   m_LocalScale: {x: 0.0065848874, y: 0.014659141, z: 0.0024693327}
   m_Children:
   - {fileID: 472622}
-  m_Father: {fileID: 410764}
+  m_Father: {fileID: 100101009}
 --- !u!33 &3351950
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9115,7 +9115,7 @@ Transform:
   m_LocalPosition: {x: -0.0014127637, y: -5.116911, z: 0.74503344}
   m_LocalScale: {x: 0.0070023797, y: 0.015588555, z: 0.0026258924}
   m_Children: []
-  m_Father: {fileID: 410764}
+  m_Father: {fileID: 100101009}
 --- !u!33 &3316744
 MeshFilter:
   m_ObjectHideFlags: 0

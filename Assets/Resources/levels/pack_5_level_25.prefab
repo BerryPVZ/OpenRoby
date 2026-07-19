@@ -3464,7 +3464,7 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 457954}
+  - 4: {fileID: 100101009}
   m_Layer: 0
   m_Name: stropa
   m_TagString: Untagged
@@ -3745,7 +3745,7 @@ Transform:
   - {fileID: 466694}
   - {fileID: 498505}
   - {fileID: 421471}
-  - {fileID: 457954}
+  - {fileID: 100101009}
   - {fileID: 488805}
   - {fileID: 422608}
   - {fileID: 443352}
@@ -13172,7 +13172,7 @@ Transform:
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 418571}
---- !u!4 &457954
+--- !u!4 &100101009
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
